@@ -1,0 +1,8 @@
+{
+	"skill" : [
+		{"skillName":"C++", "ERP":"7.6"}, 
+    {"skillName":"Python", "ERP":"6.5"},
+    {"skillName":".NET", "ERP":"5.5"},
+    {"Skillname":"Java", "ERP":"5.5"},
+]
+}
